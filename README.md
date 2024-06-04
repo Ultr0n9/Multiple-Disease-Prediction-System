@@ -1,8 +1,10 @@
-#Used Language
+# Disease Prediction(Multiple)
+
+# Used Language
 
 Python, Html, Css
 
-#Project Overview
+# Project Overview
 
 This project output is, according to data (like age, blood pressure, heart rate, glucose etc) it give the data about the patient is healthy or the patient have that particular disese like diabeties disease, heart 
 disease, liver or kidney disease etc.
@@ -11,7 +13,7 @@ Here first I have train the models separetly in jupyter notebook the after all t
 
 All the models are in pkl format in models folder.
 
-#How to run the project
+# How to run the project
 
 First download the project from Github and unzipping the project
 
